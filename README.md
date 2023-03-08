@@ -24,9 +24,9 @@ You're ready to go! Open the application in your web browser and sign up for a n
 # Requirements
 The A-Babysitter-Hiring-and-Daycare-Reservation-System has the following requirements:
 
-PHP 7.2 or higher
-MySQL 5.6 or higher
-Apache or Nginx web server
+  PHP 7.2 or higher
+  MySQL 5.6 or higher
+  Apache or Nginx web server
 
 # License
 The A-Babysitter-Hiring-and-Daycare-Reservation-System is released under the MIT License. See the LICENSE file for more details.
